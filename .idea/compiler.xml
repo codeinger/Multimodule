@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
       <module name="MultiModule.app" target="11" />
+      <module name="MultiModule.codeingertoast" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
