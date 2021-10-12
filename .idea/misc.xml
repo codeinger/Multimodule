@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/codeinger/code/real/multimodule/app/src/main/res/layout/activity_main.xml" value="0.23125" />
+        <entry key="..\:/codeinger/code/real/multimodule/feature1/src/main/res/layout/activity_featuer1.xml" value="0.23125" />
+        <entry key="..\:/codeinger/code/real/multimodule/feature1app/src/main/res/layout/activity_feature1_app.xml" value="0.23125" />
+        <entry key="..\:/codeinger/code/real/multimodule/feature2/src/main/res/layout/activity_feature2.xml" value="0.23125" />
+        <entry key="..\:/codeinger/code/real/multimodule/feature2app/src/main/res/layout/activity_feature2_app.xml" value="0.23125" />
       </map>
     </option>
   </component>

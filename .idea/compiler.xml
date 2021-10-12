@@ -4,6 +4,10 @@
     <bytecodeTargetLevel target="1.7">
       <module name="MultiModule.app" target="11" />
       <module name="MultiModule.codeingertoast" target="11" />
+      <module name="MultiModule.feature1" target="11" />
+      <module name="MultiModule.feature1app" target="11" />
+      <module name="MultiModule.feature2" target="11" />
+      <module name="MultiModule.feature2app" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

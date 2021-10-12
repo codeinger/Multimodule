@@ -10,3 +10,7 @@ rootProject.name = "MultiModule"
 include ':app'
 include ':dateformatter'
 include ':codeingertoast'
+include ':feature1'
+include ':feature1app'
+include ':feature2app'
+include ':feature2'

@@ -13,6 +13,10 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/codeingertoast" />
             <option value="$PROJECT_DIR$/dateformatter" />
+            <option value="$PROJECT_DIR$/feature1" />
+            <option value="$PROJECT_DIR$/feature1app" />
+            <option value="$PROJECT_DIR$/feature2" />
+            <option value="$PROJECT_DIR$/feature2app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
